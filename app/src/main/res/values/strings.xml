@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClientSocket</string>
+    <string name="messageForServer">MessageForServer</string>
+</resources>
